@@ -1,7 +1,7 @@
 ## README Extended Kalman Filter - P1 - Term 2
 
 ### RMSE acheived for data set #1 
-(see also logs/pic2.png file) 
+(see also /logs/pic2.png file) 
 * X: 0.0984
 * Y: 0.0846
 * VX: 0.3990
